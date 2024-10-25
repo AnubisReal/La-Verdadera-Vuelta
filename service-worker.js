@@ -1,9 +1,11 @@
 importScripts("https://js.pusher.com/beams/service-worker.js");
 
-const CACHE_NAME = 'v1.6'; // Nombre de la caché
+const CACHE_NAME = 'v1.7'; // Nombre de la caché
 const urlsToCache = [
     '/',
     '/index.html',
+    '/principal.html',
+    '/peliculas.html',
     '/manifest.json',
     '/escudos/barcelona.png',
     'https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap',
