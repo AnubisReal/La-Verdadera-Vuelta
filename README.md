@@ -1,11 +1,11 @@
 <div align="center">
-  
-  <!-- Línea principal con el badge de GitHub y mensaje de agradecimiento -->
+
+  ### Agradecimiento especial a Niklas Knaack
+
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niklasvh)
-  <span style="font-size: 1.2em; color: #333;">Agradecimiento especial a Niklas Knaack</span>
-  
+
   <br><br>
-  
+
   <!-- Badges de redes sociales -->
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tu_perfil)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tu_perfil)
