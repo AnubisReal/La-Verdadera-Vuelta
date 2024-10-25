@@ -1,0 +1,21 @@
+{
+    "name": "La Verdadera Vuelta",
+    "short_name": "La Verdadera",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#006039",
+    "icons": [
+      {
+        "src": "escudos/barcelona.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "escudos/barcelona.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
