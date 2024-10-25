@@ -1,8 +1,8 @@
 {
     "Pelis": {
         "Película 1": {
-            "escudo": "https://pics.filmaffinity.com/zack_snyder_s_justice_league-554207771-mmed.jpg",
-            "video": "#"
+            "escudo": "https://pics.filmaffinity.com/real_steel-892549102-mmed.jpg",
+            "video": "https://powvideo.org/embed-xwx2cawig1im.html"
         },
         "Película 2": {
             "escudo": "https://pics.filmaffinity.com/smile_2-891902080-mmed.jpg",
