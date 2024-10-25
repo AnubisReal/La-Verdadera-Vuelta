@@ -989,8 +989,21 @@ document.addEventListener( 'DOMContentLoaded', () => {
 </script>
     
 <script>
-    setTimeout(() => { window.location.href = 'https://anubisreal.github.io/La-Verdadera-Vuelta/principal.html'; }, 8000);
-</script>    
+    setTimeout(() => {
+        // Configuramos la transición de desvanecimiento
+        document.body.style.transition = 'opacity 2s ease';
+
+        // Usamos un pequeño retraso para aplicar el cambio de opacidad
+        setTimeout(() => {
+            document.body.style.opacity = '0';
+        }, 50); // Pequeño retraso para que el navegador aplique la transición antes de cambiar la opacidad
+
+        // Redirige después de la duración de la transición
+        setTimeout(() => {
+            window.location.href = 'https://anubisreal.github.io/La-Verdadera-Vuelta/principal.html';
+        }, 1200);
+    }, 6000);
+</script>  
     
 </body>
 </html>
