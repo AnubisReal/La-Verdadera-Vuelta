@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; min-height: 100vh; width: 100%;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 10px; min-height: 100vh; text-align: center;">
     <a href="https://www.facebook.com/tu_perfil" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
     </a>
