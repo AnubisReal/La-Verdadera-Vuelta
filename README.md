@@ -14,4 +14,7 @@
     <a href="https://music.youtube.com/channel/tu_perfil" target="_blank">
         <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music">
     </a>
+    <a href="https://soundcloud.com/tu_perfil" target="_blank">
+        <img src="https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
+    </a>
 </div>
