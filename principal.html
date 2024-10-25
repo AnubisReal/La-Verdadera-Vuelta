@@ -23,45 +23,6 @@
             flex-direction: column;
             align-items: center;
         }
-        #transition-image {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
-            background-image: url('https://i.pinimg.com/564x/be/8a/7f/be8a7f2f1c1688b2934a49835e858142.jpg'); /* Cambia a la ruta de tu imagen */
-            background-size: cover;
-            background-position: center;
-            transition: opacity 1.5s ease, filter 1.5s ease; /* Para desenfoque y opacidad */
-            z-index: 1000; /* Asegúrate de que esté en la parte superior */
-        }
-
-        
-        .imagen-inicio {
-            display: none; /* Oculta la imagen inicialmente */
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco con algo de transparencia */
-            justify-content: center;
-            align-items: center;
-            z-index: 30; /* Asegúrate de que esté por encima de otros elementos */
-            transition: opacity 0.5s ease, filter 0.5s ease; /* Transición de opacidad y desenfoque */
-         }
-
-         .imagen-inicio.show {
-            display: flex; /* Muestra el div como un flexbox */
-            opacity: 1; /* Opacidad completa */
-            filter: blur(0); /* Sin desenfoque al mostrar */
-         }
-
-        .imagen-inicio.hide {
-           opacity: 0; /* Ocultar completamente */
-           filter: blur(5px); /* Desenfoque al desaparecer */
-           pointer-events: none; /* Evitar interacción al ocultar */
-         }
         
         header {
             background-color: #006039;
@@ -212,11 +173,7 @@
     </style>
 </head>
 <body>
-
-<div id="imagenInicio" class="imagen-inicio">
-    <img src="https://i.pinimg.com/564x/82/cc/b4/82ccb4a75d0c2673c712fca2a9184145.jpg" alt="Bienvenido" />
-</div>
-
+    
 <header onclick="mostrarEscudos()">
     <h1>La Verdadera Vuelta</h1>
 </header>
@@ -458,26 +415,6 @@ function mostrarVideo(liga, equipo) {
             });
         });
     });
-</script>
-
-<script>
-    window.onload = function() {
-    const imagenInicio = document.getElementById('imagenInicio');
-
-    // Mostrar la imagen al cargar la página
-    imagenInicio.classList.add('show');
-    
-    // Esperar un momento y luego aplicar la clase hide para la transición
-    setTimeout(() => {
-        imagenInicio.classList.add('hide');
-    }, 3000); // Espera 3 segundos antes de comenzar a ocultar
-
-    // Esperar que la transición de ocultación termine para ocultar el div completamente
-    setTimeout(() => {
-        imagenInicio.style.display = 'none';
-    }, 3500); // Espera 3.5 segundos para ocultar el div
-};
-
 </script>
     
 </body>
