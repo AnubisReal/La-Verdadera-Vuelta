@@ -6,7 +6,7 @@
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "#"
+      "video": "https://embedstreams.me/la-liga/real-madrid-vs-barcelona-stream-4"
     },
     "betis": {
       "escudo": "escudos/betis.png",
@@ -38,7 +38,7 @@
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
-      "video": "#"
+      "video": "https://embedstreams.me/la-liga/real-madrid-vs-barcelona-stream-4"
     },
     "realsociedad": {
       "escudo": "escudos/realsociedad.png",
