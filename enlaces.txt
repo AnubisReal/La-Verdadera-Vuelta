@@ -2,7 +2,7 @@
   "laLiga": {
     "alaves": {
       "escudo": "https://png.pngtree.com/png-vector/20240611/ourmid/pngtree-golden-ball-on-black-background-isolated-image-and-clipart-png-image_12686405.png",
-      "video": "https://embedstreams.me/other-events/ballon-d-or-ceremony-2024-stream-2"
+      "video": "https://embedstreams.me/world-cup/ballon-d-or-ceremony-2024-stream-2"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
