@@ -1,12 +1,12 @@
 {
   "laLiga": {
     "alaves": {
-      "escudo": "escudos/alaves.png",
-      "video": "#"
+      "escudo": "https://static.wikia.nocookie.net/cariverplate/images/3/3d/Ballon_d%27Or.png/revision/latest/scale-to-width-down/200?cb=20151014011454&path-prefix=es",
+      "video": "https://embedstreams.me/other-events/ballon-d-or-ceremony-2024-stream-2"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "https://embedstreams.me/wta-tour/wta-jiujiang-mai-hontama-tamara-korpatsch-vs-jiang-xinyu-wu-fang-hsien-stream-1"
+      "video": "#"
     },
     "betis": {
       "escudo": "escudos/betis.png",
@@ -284,7 +284,7 @@
   "mma": {
     "UFC": {
       "escudo": "escudos/ufc.png",
-      "video": "https://embedstreams.me/ufc/ufc-308-ilia-topuria-vs-max-holloway-stream-4"
+      "video": "#"
     },
     "BKFC": {
       "escudo": "escudos/bkfc.png",
