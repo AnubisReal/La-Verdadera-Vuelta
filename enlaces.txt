@@ -38,7 +38,7 @@
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
-      "video": "#"
+      "video": "https://embedsports.me/champions-league/real-madrid-vs-ac-milan-stream-3"
     },
     "realsociedad": {
       "escudo": "escudos/realsociedad.png",
