@@ -38,7 +38,7 @@
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
-      "video": "#"
+      "video": "https://embedsports.me/la-liga/real-madrid-vs-osasuna-stream-3"
     },
     "realsociedad": {
       "escudo": "escudos/realsociedad.png",
