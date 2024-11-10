@@ -6,7 +6,7 @@
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "https://embedsports.me/champions-league/red-star-belgrade-vs-barcelona-stream-3"
+      "video": "https://embedsports.me/la-liga/real-sociedad-vs-barcelona-stream-3"
     },
     "betis": {
       "escudo": "escudos/betis.png",
