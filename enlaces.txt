@@ -1,8 +1,8 @@
 {
   "laLiga": {
     "alaves": {
-      "escudo": "https://png.pngtree.com/png-vector/20240611/ourmid/pngtree-golden-ball-on-black-background-isolated-image-and-clipart-png-image_12686405.png",
-      "video": "https://embedstreams.me/world-cup/ballon-d-or-ceremony-2024-stream-2"
+      "escudo": "https://static.vecteezy.com/system/resources/previews/011/571/522/non_2x/circle-flag-of-spain-free-png.png",
+      "video": "https://embedsports.me/uefa-nations-league/denmark-vs-spain-stream-3"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
