@@ -284,7 +284,7 @@
   "mma": {
     "UFC": {
       "escudo": "escudos/ufc.png",
-      "video": "#"
+      "video": "https://embedsports.me/boxing/mike-tyson-stream-2"
     },
     "BKFC": {
       "escudo": "escudos/bkfc.png",
