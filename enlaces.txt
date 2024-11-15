@@ -1,8 +1,8 @@
 {
   "laLiga": {
     "alaves": {
-      "escudo": "https://static.vecteezy.com/system/resources/previews/011/571/522/non_2x/circle-flag-of-spain-free-png.png",
-      "video": "https://embedsports.me/uefa-nations-league/denmark-vs-spain-stream-3"
+      "escudo": "escudos/alaves.png",
+      "video": "#"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
