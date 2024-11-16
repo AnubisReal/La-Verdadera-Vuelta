@@ -1,6 +1,6 @@
 importScripts("https://js.pusher.com/beams/service-worker.js");
 
-const CACHE_NAME = 'v1.3.2'; // Nombre de la caché
+const CACHE_NAME = 'v1.3.3'; // Nombre de la caché
 const urlsToCache = [
     '/',
     '/index.html',
