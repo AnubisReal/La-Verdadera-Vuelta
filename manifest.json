@@ -2,7 +2,7 @@
     "name": "La Verdadera Vuelta",
     "short_name": "La Verdadera",
     "start_url": "./index.html",
-    "display": "standalone",
+    "display": "fullscreen",
     "background_color": "#ffffff",
     "theme_color": "#006039",
     "icons": [
