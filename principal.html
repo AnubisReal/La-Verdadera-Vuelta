@@ -139,6 +139,15 @@
                 justify-content: space-between; /* Rellenar el espacio entre los botones */
                 margin: 0; /* Sin margen en móviles */
             }
+            
+         @media (max-width: 800px) {
+         /* Aumentar el tamaño solo para las imágenes de escudos dentro de Equipos con Videos en móviles */
+         /* Aumentar tamaño de la imagen cuyo nombre de archivo contiene 'ufc' */
+            .escudo img[src*="https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQWIZNNW41RIA6I8IkoyuwMUVm1mi-XdPjUNymiQL3DwXjqmsGjRWJZjBQGw7Yo3rYMdfyqhywiJxrXkpPki2FisTjw4I2RtQ8TS0uRQkW0NUh41Kp7lZZRiuy6hI3sv-Y_LxXaoAcvUn3pw2MVCp90xW.png"] {
+                width: 500px; /* Aumentar el tamaño solo para imágenes que contienen 'ufc' en su nombre */
+                margin-left: 35px;
+                }
+            }   
 
            .liga-button {
                 flex: 1 1 calc(20% - 20px); /* Cuatro botones por fila con margen */
