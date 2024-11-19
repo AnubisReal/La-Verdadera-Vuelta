@@ -1,7 +1,7 @@
 {
   "laLiga": {
     "alaves": {
-      "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Venezuela_baseball_logo.svg/512px-Venezuela_baseball_logo.svg.png",
+      "escudo": "https://1000marcas.net/wp-content/uploads/2024/07/Seleccion-de-futbol-de-Venezuela-Logo.png",
       "video": "https://embedsports.me/world-cup/chile-vs-venezuela-stream-2"
     },
     "barcelona": {
