@@ -1,8 +1,8 @@
 {
   "laLiga": {
     "alaves": {
-      "escudo": "escudos/alaves.png",
-      "video": "#"
+      "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Venezuela_baseball_logo.svg/512px-Venezuela_baseball_logo.svg.png",
+      "video": "https://embedsports.me/world-cup/chile-vs-venezuela-stream-2"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
