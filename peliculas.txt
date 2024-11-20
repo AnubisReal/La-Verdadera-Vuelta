@@ -1,14 +1,14 @@
 {
     "Pelis": {
-        "Película 1": {
+        "Gladiator II": {
             "escudo": "https://pics.filmaffinity.com/gladiator_ii-808387712-mmed.jpg",
             "video": "#"
         },
-        "Película 2": {
+        "Dune 2": {
             "escudo": "https://pics.filmaffinity.com/dune_part_two-802143593-mmed.jpg",
             "video": "https://swishsrv.com/e/0uharij7tqg8"
         },
-        "Película 3": {
+        "Avatar 2": {
             "escudo": "https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-mmed.jpg",
             "video": "https://swishsrv.com/e/xpq0m5ncd2vq"
         },
