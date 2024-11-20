@@ -134,6 +134,21 @@
             background-color: #000000;
         }
 
+        #videoContainer button:hover {
+            background-color: #8400ff !important;
+        }
+
+        #videoContainer h3 {
+            color: #000000;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+
+        #videoContainer div {
+           max-height: 400px;
+           overflow-y: auto;
+        }
+
         @media (max-width: 600px) {
             .escudo img {
                 width: 100px;
@@ -255,44 +270,71 @@ function mostrarEscudosConVideos() {
 }
 
 
-    // Mostrar video
+// Variable global para mantener el equipo actual
+let equipoActual = '';
+
+// Modificar la función mostrarVideo para guardar el equipo actual
 function mostrarVideo(liga, equipo) {
-    ligaActual = liga; // Actualizar la liga actual temporalmente
+    ligaActual = liga;
+    equipoActual = equipo; // Guardamos el equipo actual
     const reproductor = document.getElementById('reproductor');
     const videoContainer = document.getElementById('videoContainer');
 
-    const videoUrl = enlaces[liga][equipo].video; // Obtener el enlace del video
-
-    // Verificar si el enlace del video es válido
-    if (!videoUrl || videoUrl.trim() === '#' || videoUrl.trim() === '') {
-        // Mostrar mensaje de que no hay video
-        videoContainer.innerHTML = '<div style="text-align: center; padding: 20px;"><p>No hay contenidoooo copon</p></div>';
+    if (liga === 'Series') {
+        // Si es una serie, mostrar lista de capítulos
+        const capitulos = enlaces[liga][equipo].capitulos;
+        if (!capitulos || Object.keys(capitulos).length === 0) {
+            videoContainer.innerHTML = '<div style="text-align: center; padding: 20px;"><p>No hay capítulos disponibles</p></div>';
+        } else {
+            let capitulosHTML = '<div style="padding: 20px;">';
+            capitulosHTML += `<h3 style="margin-bottom: 15px;">${equipo}</h3>`;
+            capitulosHTML += '<div style="display: grid; gap: 10px;">';
+            
+            for (const [capitulo, url] of Object.entries(capitulos)) {
+                if (url && url !== '#') {
+                    capitulosHTML += `
+                        <button 
+                            onclick="reproducirCapitulo('${url}')" 
+                            style="background-color: #000000; color: white; padding: 10px; 
+                                   border: none; border-radius: 5px; cursor: pointer; 
+                                   transition: background-color 0.2s;"
+                            onmouseover="this.style.backgroundColor='#8400ff'"
+                            onmouseout="this.style.backgroundColor='#000000'"
+                        >
+                            ${capitulo}
+                        </button>`;
+                }
+            }
+            
+            capitulosHTML += '</div></div>';
+            videoContainer.innerHTML = capitulosHTML;
+        }
     } else {
-        // Crear el iframe con el video
-        const iframe = document.createElement('iframe');
-        iframe.src = videoUrl;
-        iframe.frameBorder = "0";
-        iframe.allow = "autoplay; fullscreen; picture-in-picture"; // Añadir permisos
-        iframe.allowFullscreen = true;
-
-        // Añadir el iframe al contenedor del video
-        videoContainer.innerHTML = ''; // Limpiar el contenedor anterior
-        videoContainer.appendChild(iframe); // Añadir el nuevo iframe
+        // ... resto del código para películas ...
     }
-    // Mostrar el reproductor
+    
     reproductor.classList.add('show');
-
-    // Eventos de Picture-in-Picture
-    iframe.addEventListener('enterpictureinpicture', () => {
-        console.log('El video ha entrado en modo Picture-in-Picture');
-    });
-
-    iframe.addEventListener('leavepictureinpicture', () => {
-        console.log('El video ha salido de modo Picture-in-Picture');
-    });
 }
 
+// Modificar la función reproducirCapitulo
+function reproducirCapitulo(url) {
+    const videoContainer = document.getElementById('videoContainer');
+    const iframe = document.createElement('iframe');
+    iframe.src = url;
+    iframe.frameBorder = "0";
+    iframe.allow = "autoplay; fullscreen; picture-in-picture";
+    iframe.allowFullscreen = true;
+    videoContainer.innerHTML = '';
+    videoContainer.appendChild(iframe);
 
+    // Agregar botón para volver a la lista de capítulos
+    const volverButton = document.createElement('button');
+    volverButton.innerHTML = 'Volver a Capítulos';
+    volverButton.onclick = () => mostrarVideo('Series', equipoActual); // Usamos equipoActual
+    volverButton.className = 'close-btn';
+    volverButton.style.marginTop = '10px';
+    videoContainer.insertBefore(volverButton, iframe);
+}
 
     // Cerrar reproductor
     function cerrarReproductor() {
