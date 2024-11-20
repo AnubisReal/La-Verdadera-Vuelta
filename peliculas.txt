@@ -14,26 +14,23 @@
         }
     },
     "Series": {
-        "Serie 1": {
-            "escudo": "https://pics.filmaffinity.com/game_of_thrones-293142110-mmed.jpg",
+        "La Que Se Avecina": {
+            "escudo": "https://pics.filmaffinity.com/la_que_se_avecina-519161907-mmed.jpg",
             "capitulos": {
                 "Capitulo 1": "https://ejemplo.com/serie1-cap1.html",
                 "Capitulo 2": "https://ejemplo.com/serie1-cap2.html",
-                "Capitulo 3": "https://ejemplo.com/serie1-cap3.html",
-                "Capitulo 4": "https://ejemplo.com/serie1-cap3.html",
-                "Capitulo 5": "https://ejemplo.com/serie1-cap3.html",
-                "Capitulo 6": "https://ejemplo.com/serie1-cap3.html"
+                "Capitulo 3": "https://ejemplo.com/serie1-cap3.html"
             }
         },
         "Serie 2": {
-            "escudo": "https://pics.filmaffinity.com/juanes_enter_sandman-354309597-mmed.jpg",
+            "escudo": "https://pics.filmaffinity.com/special_ops_lioness-655357732-mmed.jpg",
             "capitulos": {
                 "Capitulo 1": "https://ejemplo.com/serie2-cap1.html",
                 "Capitulo 2": "https://ejemplo.com/serie2-cap2.html"
             }
         },
         "Serie 3": {
-            "escudo": "https://pics.filmaffinity.com/la_que_se_avecina-519161907-mmed.jpg",
+            "escudo": "https://pics.filmaffinity.com/rematch-138354180-mmed.jpg",
             "capitulos": {
                 "Capitulo 1": "https://ejemplo.com/serie3-cap1.html",
                 "Capitulo 2": "https://ejemplo.com/serie3-cap2.html"
