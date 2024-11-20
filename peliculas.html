@@ -362,12 +362,12 @@ let equipoActual = '';
 // Modificar la función mostrarVideo para guardar el equipo actual
 function mostrarVideo(liga, equipo) {
     ligaActual = liga;
-    equipoActual = equipo; // Guardamos el equipo actual
+    equipoActual = equipo; 
     const reproductor = document.getElementById('reproductor');
     const videoContainer = document.getElementById('videoContainer');
 
     if (liga === 'Series') {
-        // Si es una serie, mostrar lista de capítulos
+        // Para series, mostrar lista de capítulos
         const capitulos = enlaces[liga][equipo].capitulos;
         if (!capitulos || Object.keys(capitulos).length === 0) {
             videoContainer.innerHTML = '<div style="text-align: center; padding: 20px;"><p>No hay capítulos disponibles</p></div>';
@@ -395,14 +395,20 @@ function mostrarVideo(liga, equipo) {
             capitulosHTML += '</div></div>';
             videoContainer.innerHTML = capitulosHTML;
         }
-    } else {
-        // ... resto del código para películas ...
+    } else if (liga === 'Pelis') {
+        // Para películas, obtener el video directo
+        const videoLink = enlaces[liga][equipo].video;
+        
+        if (!videoLink || videoLink === '#') {
+            videoContainer.innerHTML = '<div style="text-align: center; padding: 20px;"><p>No hay video disponible</p></div>';
+        } else {
+            reproducirCapitulo(videoLink);
+        }
     }
     
     reproductor.classList.add('show');
 }
 
-// Modificar la función reproducirCapitulo
 function reproducirCapitulo(url) {
     const videoContainer = document.getElementById('videoContainer');
     const iframe = document.createElement('iframe');
@@ -410,16 +416,21 @@ function reproducirCapitulo(url) {
     iframe.frameBorder = "0";
     iframe.allow = "autoplay; fullscreen; picture-in-picture";
     iframe.allowFullscreen = true;
-    videoContainer.innerHTML = '';
-    videoContainer.appendChild(iframe);
 
-    // Agregar botón para volver a la lista de capítulos
     const volverButton = document.createElement('button');
-    volverButton.innerHTML = 'Volver a Capítulos';
-    volverButton.onclick = () => mostrarVideo('Series', equipoActual); // Usamos equipoActual
+    volverButton.innerHTML = ligaActual === 'Series' ? 'Volver a Capítulos' : 'Volver a Películas';
+    volverButton.onclick = () => mostrarVideo(ligaActual, equipoActual);
     volverButton.className = 'close-btn';
     volverButton.style.marginTop = '10px';
-    videoContainer.insertBefore(volverButton, iframe);
+
+    // Ocultar el botón para películas
+    if (ligaActual !== 'Series') {
+        volverButton.style.display = 'none';
+    }
+
+    videoContainer.innerHTML = ''; // Limpiar contenedor
+    videoContainer.appendChild(volverButton);
+    videoContainer.appendChild(iframe);
 }
 
     // Cerrar reproductor
