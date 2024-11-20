@@ -1,25 +1,25 @@
 {
     "Pelis": {
         "Película 1": {
-            "escudo": "https://pics.filmaffinity.com/real_steel-892549102-mmed.jpg",
-            "video": "https://powvideo.org/embed-xwx2cawig1im.html"
+            "escudo": "https://pics.filmaffinity.com/gladiator_ii-808387712-mmed.jpg",
+            "video": "#"
         },
         "Película 2": {
-            "escudo": "https://ejemplo.com/imagen2.jpg",
-            "video": "https://ejemplo.com/video2.html"
+            "escudo": "https://pics.filmaffinity.com/dune_part_two-802143593-mmed.jpg",
+            "video": "#"
         },
         "Película 3": {
-            "escudo": "https://ejemplo.com/imagen3.jpg",
-            "video": "https://ejemplo.com/video3.html"
+            "escudo": "https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-mmed.jpg",
+            "video": "#"
         }
     },
     "Series": {
         "La Que Se Avecina": {
             "escudo": "https://pics.filmaffinity.com/la_que_se_avecina-519161907-mmed.jpg",
             "capitulos": {
-                "Capitulo 1": "https://ejemplo.com/serie1-cap1.html",
-                "Capitulo 2": "https://ejemplo.com/serie1-cap2.html",
-                "Capitulo 3": "https://ejemplo.com/serie1-cap3.html"
+                "Capitulo 1": "https://luluvdo.com/e/8ydiuzbsgncw",
+                "Capitulo 2": "https://luluvdo.com/e/zttvqpn9j8xy",
+                "Capitulo 3": "https://luluvdo.com/e/hm3a4qxgl98y"
             }
         },
         "Serie 2": {
