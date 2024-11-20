@@ -11,6 +11,18 @@
         "Película 3": {
             "escudo": "https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-mmed.jpg",
             "video": "#"
+        },
+        "Alien: Romulus": {
+            "escudo": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_SX300.jpg",
+            "video": "https://www.imdb.com/title/tt18412256/"
+        },
+        "Joker: Folie à Deux": {
+            "escudo": "https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_SX300.jpg",
+            "video": "https://www.imdb.com/title/tt11315808/"
+        },
+        "Smile 2": {
+            "escudo": "https://m.media-amazon.com/images/M/MV5BYTg5OTMyMGMtYzMwNC00NDMyLWE0OGUtMTQ1ODcwM2FjOTM4XkEyXkFqcGc@._V1_SX300.jpg",
+            "video": "https://www.imdb.com/title/tt29268110/"
         }
     },
     "Series": {
@@ -34,6 +46,50 @@
             "capitulos": {
                 "Capitulo 1": "https://ejemplo.com/serie3-cap1.html",
                 "Capitulo 2": "https://ejemplo.com/serie3-cap2.html"
+            }
+        },
+        "Arcane": {
+            "escudo": "https://m.media-amazon.com/images/M/MV5BOWJhYjdjNWEtMWFmNC00ZjNkLThlZGEtN2NkM2U3NTVmMjZkXkEyXkFqcGc@._V1_SX300.jpg",
+            "capitulos": {
+                "Temporada 1 - Capítulo 1": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-1.html",
+                "Temporada 1 - Capítulo 2": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-2.html",
+                "Temporada 1 - Capítulo 3": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-3.html",
+                "Temporada 1 - Capítulo 4": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-4.html",
+                "Temporada 1 - Capítulo 5": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-5.html",
+                "Temporada 1 - Capítulo 6": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-6.html",
+                "Temporada 1 - Capítulo 7": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-7.html",
+                "Temporada 1 - Capítulo 8": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-8.html",
+                "Temporada 1 - Capítulo 9": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-9.html",
+                "Temporada 2 - Capítulo 1": "https://www.flixcorn.com/ver/arcane/temporada-2/capitulo-1.html"
+            }
+        },
+        "Cross": {
+            "escudo": "https://m.media-amazon.com/images/M/MV5BMTE0ZGVjMjUtMDI1ZC00MTZiLWI1OWMtMTI3ZGI4ODU4OTU4XkEyXkFqcGc@._V1_SX300.jpg",
+            "capitulos": {
+                "Temporada 1 - Capítulo 1": "https://www.flixcorn.com/ver/dune-la-profecia/temporada-1/capitulo-1.html",
+                "Temporada 1 - Capítulo 2": "https://www.flixcorn.com/ver/dune-la-profecia/temporada-1/capitulo-2.html",
+                "Temporada 1 - Capítulo 3": "https://www.flixcorn.com/ver/dune-la-profecia/temporada-1/capitulo-3.html",
+                "Temporada 1 - Capítulo 4": "https://www.flixcorn.com/ver/dune-la-profecia/temporada-1/capitulo-4.html",
+                "Temporada 1 - Capítulo 5": "https://www.flixcorn.com/ver/dune-la-profecia/temporada-1/capitulo-5.html",
+                "Temporada 1 - Capítulo 6": "https://www.flixcorn.com/ver/dune-la-profecia/temporada-1/capitulo-6.html"
+            }
+        },
+        "Silo": {
+            "escudo": "https://m.media-amazon.com/images/M/MV5BNjA5ODM4YTEtNDcxZi00N2ViLTg0MTgtNGQxNjBjZWY5YTk3XkEyXkFqcGc@._V1_SX300.jpg",
+            "capitulos": {
+                "Temporada 1 - Capítulo 1": "https://www.flixcorn.com/ver/silo/temporada-1/capitulo-1.html",
+                "Temporada 1 - Capítulo 2": "https://www.flixcorn.com/ver/silo/temporada-1/capitulo-2.html",
+                "Temporada 1 - Capítulo 3": "https://www.flixcorn.com/ver/silo/temporada-1/capitulo-3.html",
+                "Temporada 1 - Capítulo 4": "https://www.flixcorn.com/ver/silo/temporada-1/capitulo-4.html",
+                "Temporada 1 - Capítulo 5": "https://www.flixcorn.com/ver/silo/temporada-1/capitulo-5.html",
+                "Temporada 1 - Capítulo 6": "https://www.flixcorn.com/ver/silo/temporada-1/capitulo-6.html",
+                "Temporada 1 - Capítulo 7": "https://www.flixcorn.com/ver/silo/temporada-1/capitulo-7.html",
+                "Temporada 1 - Capítulo 8": "https://www.flixcorn.com/ver/silo/temporada-1/capitulo-8.html",
+                "Temporada 1 - Capítulo 9": "https://www.flixcorn.com/ver/silo/temporada-1/capitulo-9.html",
+                "Temporada 1 - Capítulo 10": "https://www.flixcorn.com/ver/silo/temporada-1/capitulo-10.html",
+                "Temporada 2 - Capítulo 1": "https://www.flixcorn.com/ver/silo/temporada-2/capitulo-1.html",
+                "Temporada 2 - Capítulo 2": "https://www.flixcorn.com/ver/silo/temporada-2/capitulo-2.html",
+                "Temporada 2 - Capítulo 3": "https://www.flixcorn.com/ver/silo/temporada-2/capitulo-3.html"
             }
         }
     }
