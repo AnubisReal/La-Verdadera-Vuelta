@@ -6,23 +6,23 @@
         },
         "Película 2": {
             "escudo": "https://pics.filmaffinity.com/dune_part_two-802143593-mmed.jpg",
-            "video": "#"
+            "video": "https://swishsrv.com/e/0uharij7tqg8"
         },
         "Película 3": {
             "escudo": "https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-mmed.jpg",
-            "video": "#"
+            "video": "https://swishsrv.com/e/xpq0m5ncd2vq"
         },
         "Alien: Romulus": {
             "escudo": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_SX300.jpg",
-            "video": "https://www.imdb.com/title/tt18412256/"
+            "video": "https://swishsrv.com/e/yjn55o83grmw"
         },
         "Joker: Folie à Deux": {
             "escudo": "https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_SX300.jpg",
-            "video": "https://www.imdb.com/title/tt11315808/"
+            "video": "https://swishsrv.com/e/r8xn2wqlvjsj"
         },
         "Smile 2": {
             "escudo": "https://m.media-amazon.com/images/M/MV5BYTg5OTMyMGMtYzMwNC00NDMyLWE0OGUtMTQ1ODcwM2FjOTM4XkEyXkFqcGc@._V1_SX300.jpg",
-            "video": "https://www.imdb.com/title/tt29268110/"
+            "video": "https://swishsrv.com/e/9imvx5oye9qx"
         }
     },
     "Series": {
