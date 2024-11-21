@@ -23,6 +23,18 @@
         "Smile 2": {
             "escudo": "https://m.media-amazon.com/images/M/MV5BYTg5OTMyMGMtYzMwNC00NDMyLWE0OGUtMTQ1ODcwM2FjOTM4XkEyXkFqcGc@._V1_SX300.jpg",
             "video": "https://swishsrv.com/e/9imvx5oye9qx"
+        },
+        "Arcadian": {
+            "escudo": "https://m.media-amazon.com/images/M/MV5BYmQ0OTU4MDUtOTM5Yi00Y2QwLThhYTMtZGFmOWU2ZTU0Y2VlXkEyXkFqcGc@._V1_SX300.jpg",
+            "video": "https://www.imdb.com/title/tt22939186/"
+        },
+        "Canary Black": {
+            "escudo": "http://image.tmdb.org/t/p/w500/5DuTUE3yOvRa5p9moUUqSzFUG6Z.jpg",
+            "video": "https://www.imdb.com/title/tt20048582/"
+        },
+        "El sindicato": {
+            "escudo": "http://image.tmdb.org/t/p/w500/oYc2eHV2QJaEmmdCFCZyl8m8J7A.jpg",
+            "video": "https://www.imdb.com/title/tt6139644/"
         }
     },
     "Series": {
