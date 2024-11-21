@@ -6,7 +6,7 @@
         },
         "Dune 2": {
             "escudo": "https://pics.filmaffinity.com/dune_part_two-802143593-mmed.jpg",
-            "video": "https://swishsrv.com/e/0uharij7tqg8"
+            "video": "https://filemoon.sx/e/s3ulp2l1zh3g"
         },
         "Avatar 2": {
             "escudo": "https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-mmed.jpg",
@@ -26,34 +26,34 @@
         },
         "Arcadian": {
             "escudo": "https://m.media-amazon.com/images/M/MV5BYmQ0OTU4MDUtOTM5Yi00Y2QwLThhYTMtZGFmOWU2ZTU0Y2VlXkEyXkFqcGc@._V1_SX300.jpg",
-            "video": "https://www.imdb.com/title/tt22939186/"
+            "video": "https://swishsrv.com/e/iyaljn5wrp55"
         },
-        "Canary Black": {
-            "escudo": "http://image.tmdb.org/t/p/w500/5DuTUE3yOvRa5p9moUUqSzFUG6Z.jpg",
-            "video": "https://www.imdb.com/title/tt20048582/"
+        "Red Clasificada": {
+            "escudo": "http://image.tmdb.org/t/p/w500/xuMxVxDbFwRu7466gLZdqWmJPsb.jpg",
+            "video": "https://swishsrv.com/e/d4k6udmpy0rt"
         },
-        "El sindicato": {
-            "escudo": "http://image.tmdb.org/t/p/w500/oYc2eHV2QJaEmmdCFCZyl8m8J7A.jpg",
-            "video": "https://www.imdb.com/title/tt6139644/"
+        "Red De Traición": {
+            "escudo": "http://image.tmdb.org/t/p/w500/naYxXiVGudVNbJ3KgbG91Bg6xOQ.jpg",
+            "video": "https://swishsrv.com/e/olxb6433xjem"
         }
     },
     "Series": {
         "La Que Se Avecina": {
-            "escudo": "https://pics.filmaffinity.com/la_que_se_avecina-519161907-mmed.jpg",
+            "escudo": "http://image.tmdb.org/t/p/w500/8LNRt280FXjHfAI2y3WxHuQ6iYx.jpg",
             "capitulos": {
-                "Capitulo 1": "https://luluvdo.com/e/8ydiuzbsgncw",
-                "Capitulo 2": "https://luluvdo.com/e/zttvqpn9j8xy",
+                "Capitulo 1": "https://swishsrv.com/e/v60qobne9580",
+                "Capitulo 2": "https://swishsrv.com/e/pr5f5yj1qp43",
                 "Capitulo 3": "https://swishsrv.com/e/y8mgmf2nyq8l"
             }
         },
-        "Serie 2": {
+        "Operaciones Especiales Leones": {
             "escudo": "https://pics.filmaffinity.com/special_ops_lioness-655357732-mmed.jpg",
             "capitulos": {
                 "Capitulo 1": "https://ejemplo.com/serie2-cap1.html",
                 "Capitulo 2": "https://ejemplo.com/serie2-cap2.html"
             }
         },
-        "Serie 3": {
+        "Revancha": {
             "escudo": "https://pics.filmaffinity.com/rematch-138354180-mmed.jpg",
             "capitulos": {
                 "Capitulo 1": "https://ejemplo.com/serie3-cap1.html",
@@ -61,7 +61,7 @@
             }
         },
         "Arcane": {
-            "escudo": "https://m.media-amazon.com/images/M/MV5BOWJhYjdjNWEtMWFmNC00ZjNkLThlZGEtN2NkM2U3NTVmMjZkXkEyXkFqcGc@._V1_SX300.jpg",
+            "escudo": "http://image.tmdb.org/t/p/w500/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
             "capitulos": {
                 "Temporada 1 - Capítulo 1": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-1.html",
                 "Temporada 1 - Capítulo 2": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-2.html",
@@ -72,7 +72,12 @@
                 "Temporada 1 - Capítulo 7": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-7.html",
                 "Temporada 1 - Capítulo 8": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-8.html",
                 "Temporada 1 - Capítulo 9": "https://www.flixcorn.com/ver/arcane/temporada-1/capitulo-9.html",
-                "Temporada 2 - Capítulo 1": "https://www.flixcorn.com/ver/arcane/temporada-2/capitulo-1.html"
+                "Temporada 2 - Capítulo 1": "https://www.flixcorn.com/ver/arcane/temporada-2/capitulo-1.html",
+                "Temporada 2 - Capítulo 2": "https://www.flixcorn.com/ver/arcane/temporada-2/capitulo-1.html",
+                "Temporada 2 - Capítulo 3": "https://www.flixcorn.com/ver/arcane/temporada-2/capitulo-1.html",
+                "Temporada 2 - Capítulo 4": "https://swishsrv.com/e/w0kmp8ehtq29",
+                "Temporada 2 - Capítulo 5": "https://swishsrv.com/e/ef1weccbuz3s",
+                "Temporada 2 - Capítulo 6": "https://swishsrv.com/e/zojtfllw4wf4"
             }
         },
         "Cross": {
