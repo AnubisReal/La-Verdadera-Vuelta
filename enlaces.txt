@@ -1,7 +1,7 @@
 {
   "laLiga": {
     "alaves": {
-      "escudo": "escudos/venezuela.png",
+      "escudo": "escudos/alaves.png",
       "video": "https://embedsports.me/world-cup/chile-vs-venezuela-stream-2"
     },
     "barcelona": {
