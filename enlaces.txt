@@ -6,7 +6,7 @@
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "#"
+      "video": "https://embedsports.me/la-liga/celta-vigo-vs-barcelona-stream-3"
     },
     "betis": {
       "escudo": "escudos/betis.png",
