@@ -38,7 +38,7 @@
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
-      "video": "https://embedsports.me/champions-league/liverpool-vs-real-madrid-stream-4"
+      "video": "https://embedsports.me/la-liga/real-madrid-vs-getafe-stream-3"
     },
     "realsociedad": {
       "escudo": "escudos/realsociedad.png",
