@@ -6,7 +6,7 @@
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "https://embedsports.me/la-liga/barcelona-vs-las-palmas-stream-3"
+      "video": "#"
     },
     "betis": {
       "escudo": "escudos/betis.png",
