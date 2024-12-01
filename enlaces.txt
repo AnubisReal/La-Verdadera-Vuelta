@@ -42,7 +42,7 @@
     },
     "realsociedad": {
       "escudo": "escudos/realsociedad.png",
-      "video": "#"
+      "video": "https://embedsports.me/la-liga/real-sociedad-vs-real-betis-stream-3"
     },
     "valencia": {
       "escudo": "escudos/valencia.png",
