@@ -6,7 +6,7 @@
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "https://embedsports.me/la-liga/mallorca-vs-barcelona-stream-4"
+      "video": "https://embedsports.me/la-liga/mallorca-vs-barcelona-stream-3"
     },
     "betis": {
       "escudo": "escudos/betis.png",
