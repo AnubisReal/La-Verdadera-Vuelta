@@ -34,7 +34,7 @@
     },
     "realbetis": {
       "escudo": "escudos/betis.png",
-      "video": "#"
+      "video": "https://embedsports.me/la-liga/girona-vs-real-madrid-stream-3"
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
