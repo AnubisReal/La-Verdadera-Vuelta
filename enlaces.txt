@@ -292,7 +292,7 @@
     },
     "oneFc": {
       "escudo": "https://box.live/wp-content/uploads/2022/01/Robeisy-Ramirez1.png",
-      "video": "https://embedsports.me/boxing/top-rank-boxing-emanuel-navarrete-vs-oscar-valdez-ii-prelims-stream-2"
+      "video": "https://embedsports.me/boxing/top-rank-boxing-emanuel-navarrete-vs-oscar-valdez-ii-stream-3"
     }
   }
 }
