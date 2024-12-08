@@ -6,7 +6,7 @@
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "https://embedsports.me/la-liga/mallorca-vs-barcelona-stream-3"
+      "video": "#"
     },
     "betis": {
       "escudo": "escudos/betis.png",
@@ -34,7 +34,7 @@
     },
     "realbetis": {
       "escudo": "escudos/betis.png",
-      "video": "https://embedsports.me/la-liga/girona-vs-real-madrid-stream-3"
+      "video": "#"
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
@@ -291,8 +291,8 @@
       "video": "#"
     },
     "oneFc": {
-      "escudo": "escudos/onefc.png",
-      "video": "#"
+      "escudo": "https://box.live/wp-content/uploads/2022/01/Robeisy-Ramirez1.png",
+      "video": "https://embedsports.me/boxing/top-rank-boxing-emanuel-navarrete-vs-oscar-valdez-ii-prelims-stream-2"
     }
   }
 }
