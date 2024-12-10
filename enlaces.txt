@@ -38,7 +38,7 @@
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
-      "video": "#"
+      "video": "https://embedsports.me/champions-league/atalanta-vs-real-madrid-stream-3"
     },
     "realsociedad": {
       "escudo": "escudos/realsociedad.png",
