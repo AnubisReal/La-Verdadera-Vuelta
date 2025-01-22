@@ -38,7 +38,7 @@
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
-      "video": "https://embedsports.me/champions-league/real-madrid-vs-rb-salzburg-stream-3"
+      "video": "https://embedsports.me/atp-tour/tennis-channel-stream-2"
     },
     "realsociedad": {
       "escudo": "escudos/realsociedad.png",
