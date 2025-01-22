@@ -38,7 +38,7 @@
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
-      "video": "https://embedsports.me/champions-league/atalanta-vs-real-madrid-stream-3"
+      "video": "https://embedsports.me/champions-league/real-madrid-vs-rb-salzburg-stream-3"
     },
     "realsociedad": {
       "escudo": "escudos/realsociedad.png",
@@ -291,8 +291,8 @@
       "video": "#"
     },
     "oneFc": {
-      "escudo": "https://box.live/wp-content/uploads/2022/01/Robeisy-Ramirez1.png",
-      "video": "https://embedsports.me/boxing/top-rank-boxing-emanuel-navarrete-vs-oscar-valdez-ii-stream-3"
+      "escudo": "#",
+      "video": "#"
     }
   }
 }
