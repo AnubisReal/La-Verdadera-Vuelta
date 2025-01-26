@@ -6,7 +6,7 @@
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "#"
+      "video": "https://embedsports.me/la-liga/barcelona-vs-valencia-stream-3"
     },
     "betis": {
       "escudo": "escudos/betis.png",
@@ -38,7 +38,7 @@
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
-      "video": "https://embedsports.me/atp-tour/tennis-channel-stream-2"
+      "video": "#"
     },
     "realsociedad": {
       "escudo": "escudos/realsociedad.png",
