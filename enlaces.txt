@@ -38,7 +38,7 @@
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
-      "video": "https://embedsports.me/champions-league/brest-vs-real-madrid-stream-3"
+      "video": "https://embedsports.me/la-liga/espanyol-vs-real-madrid-stream-3"
     },
     "realsociedad": {
       "escudo": "escudos/realsociedad.png",
