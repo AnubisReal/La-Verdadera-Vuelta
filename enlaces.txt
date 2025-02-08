@@ -284,7 +284,7 @@
   "mma": {
     "UFC": {
       "escudo": "escudos/ufc.png",
-      "video": "https://embedsports.me/boxing/david-benavidez-vs-david-morrell-stream-3"
+      "video": "https://embedsports.me/test-odi/sri-lanka-vs-australia-stream-1"
     },
     "BKFC": {
       "escudo": "escudos/bkfc.png",
