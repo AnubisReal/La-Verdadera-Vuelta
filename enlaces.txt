@@ -2,7 +2,7 @@
   "laLiga": {
     "alaves": {
       "escudo": "escudos/alaves.png",
-      "video": "#"
+      "video": "https://embedsports.me/ufc/ufc-313-alex-pereira-vs-magomed-ankalaev-stream-4"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
