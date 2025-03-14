@@ -2,7 +2,7 @@
     "Pelis": {
         "Gladiator II": {
             "escudo": "https://pics.filmaffinity.com/gladiator_ii-808387712-mmed.jpg",
-            "video": "#"
+            "video": "https://jelly.anubisreal.duckdns.org/Items/525fbfb8f9cfb567fe41c7dd3f55a3b6/Download?api_key=bcea24524c4645bca4b72bd1cff42f7a"
         },
         "Dune 2": {
             "escudo": "https://pics.filmaffinity.com/dune_part_two-802143593-mmed.jpg",
