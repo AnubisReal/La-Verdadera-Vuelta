@@ -2,7 +2,7 @@
   "laLiga": {
     "alaves": {
       "escudo": "escudos/alaves.png",
-      "video": "https://embedsports.me/ufc/ufc-313-alex-pereira-vs-magomed-ankalaev-stream-4"
+      "video": "#"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
@@ -284,7 +284,7 @@
   "mma": {
     "UFC": {
       "escudo": "escudos/ufc.png",
-      "video": "https://embedsports.me/test-odi/sri-lanka-vs-australia-stream-1"
+      "video": "https://embedsports.me/ufc/ufc-fight-night-brandon-moreno-vs-steve-erceg-stream-4"
     },
     "BKFC": {
       "escudo": "escudos/bkfc.png",
