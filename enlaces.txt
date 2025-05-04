@@ -18,7 +18,7 @@
     },
     "espanyol": {
       "escudo": "escudos/espanyol.png",
-      "video": "#"
+      "video": "https://embedsports.me/la-liga/espanyol-vs-real-betis-stream-4"
     },
     "osasuna": {
       "escudo": "escudos/osasuna.png",
@@ -38,7 +38,7 @@
     },
     "realMadrid": {
       "escudo": "escudos/realmadrid.png",
-      "video": "https://embedsports.me/la-liga/real-madrid-vs-celta-vigo-stream-3"
+      "video": "#"
     },
     "realsociedad": {
       "escudo": "escudos/realsociedad.png",
@@ -84,7 +84,7 @@
     },
     "chelsea": {
       "escudo": "escudos/chelsea.png",
-      "video": "#"
+      "video": "https://embedsports.me/epl/chelsea-vs-liverpool-stream-4"
     },
     "everton": {
       "escudo": "escudos/everton.png",
