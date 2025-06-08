@@ -18,7 +18,7 @@
     },
     "espanyol": {
       "escudo": "escudos/espanyol.png",
-      "video": "https://embedsports.me/la-liga/espanyol-vs-real-betis-stream-4"
+      "video": "https://embedsports.me/french-open/the-french-open-final-jannik-sinner-vs-carlos-alcaraz-stream-3"
     },
     "osasuna": {
       "escudo": "escudos/osasuna.png",
