@@ -2,7 +2,7 @@
   "laLiga": {
     "alaves": {
       "escudo": "escudos/alaves.png",
-      "video": "#"
+      "video": "https://embedsports.me/ufc/ufc-317-ilia-topuria-vs-charles-oliveira-stream-1"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
