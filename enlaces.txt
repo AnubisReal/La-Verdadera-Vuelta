@@ -10,7 +10,7 @@
     },
     "betis": {
       "escudo": "escudos/betis.png",
-      "video": "#"
+      "video": "https://embedsports.me/ufc/ufc-317-ilia-topuria-vs-charles-oliveira-stream-3"
     },
     "celta": {
       "escudo": "escudos/celta.png",
