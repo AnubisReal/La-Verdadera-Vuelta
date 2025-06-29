@@ -18,7 +18,7 @@
     },
     "espanyol": {
       "escudo": "escudos/espanyol.png",
-      "video": "https://embedsports.me/french-open/the-french-open-final-jannik-sinner-vs-carlos-alcaraz-stream-3"
+      "video": "#"
     },
     "osasuna": {
       "escudo": "escudos/osasuna.png",
@@ -284,7 +284,7 @@
   "mma": {
     "UFC": {
       "escudo": "escudos/ufc.png",
-      "video": "#"
+      "video": "https://embedsports.me/ufc/ufc-317-ilia-topuria-vs-charles-oliveira-stream-4"
     },
     "BKFC": {
       "escudo": "escudos/bkfc.png",
