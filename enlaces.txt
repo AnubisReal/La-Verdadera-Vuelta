@@ -2,15 +2,15 @@
   "laLiga": {
     "alaves": {
       "escudo": "escudos/alaves.png",
-      "video": "https://embedsports.me/ufc/ufc-317-ilia-topuria-vs-charles-oliveira-stream-1"
+      "video": "#"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "https://embedsports.me/ufc/ufc-317-ilia-topuria-vs-charles-oliveira-stream-9"
+      "video": "#"
     },
     "betis": {
       "escudo": "escudos/betis.png",
-      "video": "https://embedsports.me/ufc/ufc-317-ilia-topuria-vs-charles-oliveira-stream-3"
+      "video": "#"
     },
     "celta": {
       "escudo": "escudos/celta.png",
