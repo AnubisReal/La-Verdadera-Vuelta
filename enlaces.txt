@@ -2,7 +2,7 @@
   "laLiga": {
     "alaves": {
       "escudo": "escudos/alaves.png",
-      "video": "#"
+      "video": "https://embedsports.me/mlb/2025-mlb-all-star-game-national-league-vs-american-league-stream-3"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
