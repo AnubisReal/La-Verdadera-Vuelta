@@ -2,7 +2,7 @@
   "laLiga": {
     "alaves": {
       "escudo": "escudos/alaves.png",
-      "video": "#"
+      "video": "https://embedsports.me/ufc/ufc-319-post-fight-press-conference-stream-1"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
@@ -296,4 +296,5 @@
     }
   }
 }
+
 
