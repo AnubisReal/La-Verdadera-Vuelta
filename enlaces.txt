@@ -2,11 +2,11 @@
   "laLiga": {
     "alaves": {
       "escudo": "escudos/alaves.png",
-      "video": "https://embedsports.me/ufc/ufc-319-post-fight-press-conference-stream-1"
+      "video": "#"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "https://embedsports.me/ufc/ufc-319-dricusdu-plessis-vs-khamzat-chimaev-stream-10"
+      "video": "#"
     },
     "betis": {
       "escudo": "escudos/betis.png",
@@ -284,7 +284,7 @@
   "mma": {
     "UFC": {
       "escudo": "escudos/ufc.png",
-      "video": "https://embedsports.me/ufc/ufc-319-dricusdu-plessis-vs-khamzat-chimaev-stream-2"
+      "video": "https://embedsports.me/boxing/canelo-vs-crawford-weigh-in-stream-2"
     },
     "BKFC": {
       "escudo": "escudos/bkfc.png",
@@ -296,6 +296,7 @@
     }
   }
 }
+
 
 
 
