@@ -2,15 +2,15 @@
   "laLiga": {
     "alaves": {
       "escudo": "escudos/alaves.png",
-      "video": "#"
+      "video": "https://embedsports.me/boxing/saul-canelo-alvarez-vs-terence-crawford-stream-1"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "#"
+      "video": "https://embedsports.me/boxing/saul-canelo-alvarez-vs-terence-crawford-stream-2"
     },
     "betis": {
       "escudo": "escudos/betis.png",
-      "video": "#"
+      "video": "https://embedsports.me/boxing/saul-canelo-alvarez-vs-terence-crawford-stream-3"
     },
     "celta": {
       "escudo": "escudos/celta.png",
@@ -296,6 +296,7 @@
     }
   }
 }
+
 
 
 
