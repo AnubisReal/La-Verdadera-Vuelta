@@ -2,15 +2,15 @@
   "laLiga": {
     "alaves": {
       "escudo": "escudos/alaves.png",
-      "video": "https://embedsports.me/boxing/saul-canelo-alvarez-vs-terence-crawford-stream-1"
+      "video": "https://embedsports.me/wta-tour/diamond-court-linda-noskova-vs-amanda-anisimova-stream-2"
     },
     "barcelona": {
       "escudo": "escudos/barcelona.png",
-      "video": "https://embedsports.me/boxing/saul-canelo-alvarez-vs-terence-crawford-stream-2"
+      "video": "#"
     },
     "betis": {
       "escudo": "escudos/betis.png",
-      "video": "https://embedsports.me/boxing/saul-canelo-alvarez-vs-terence-crawford-stream-3"
+      "video": "#"
     },
     "celta": {
       "escudo": "escudos/celta.png",
@@ -296,6 +296,7 @@
     }
   }
 }
+
 
 
 
